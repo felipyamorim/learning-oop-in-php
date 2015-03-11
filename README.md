@@ -207,7 +207,7 @@ A collection of resources to learn object-oriented programming and related conce
 ## Videos
 *Videos about object-oriented programming and related concepts.*
 
-* [Video Aula de Orientação a Objetos (Portugese)](http://youtu.be/t9Cd7EWL0eo)
+* [Video Aula de Orientação a Objetos (with English subtitles)](http://youtu.be/t9Cd7EWL0eo)
 
 ## Slides
 *Slides about object-oriented programming and related concepts.*
